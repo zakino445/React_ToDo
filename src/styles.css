@@ -61,6 +61,6 @@ button:hover {
 
 .list-row {
   display: flex;
-  align-items: center;
-  padding-bottom: 4px;
+  text-align: center;
+  padding-bottom: 0;
 }
